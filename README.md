@@ -8,7 +8,7 @@ React, Typescript, Styled-Components e Axios.
 
 https://drive.google.com/file/d/1w-t6Wp-5G82KWalak9Xj0hEf0nCwIshd/view?usp=drivesdk
 
-## Para Executar Aplicação no seu terminal aplique os seguintes comandos: 
+## Para Executar Aplicação na sua IDE aplique os seguintes comandos: 
 1- Npm I. (Para instalar todas as dependencias)
 2- Npm i styled-components. (Para Instalar o styled components, a estilização). 
 3- Npm Axios (Para conexão do front com o back) 
