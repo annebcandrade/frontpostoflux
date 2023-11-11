@@ -1,7 +1,7 @@
 
 # Front-End da Aplicação FullStack: AutoPostoFlux. 
 
-# # # Tecnologias Utilizadas: 
+# # Tecnologias Utilizadas: 
 React, Typescript, Styled-Components e Axios. 
 
 # # Para Executar Aplicação no seu terminal aplique os seguintes comandos: 
